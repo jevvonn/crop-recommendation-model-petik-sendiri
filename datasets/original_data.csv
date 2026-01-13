@@ -59,78 +59,77 @@ N,P,K,min_temp,max_temp,min_humidity,max_humidity,min_ph,max_ph,min_rainfall,max
 150,150,150,15,25,60,80,5.5,6.5,1000,1800,Daun Bawang,1
 90,40,45,15,25,85,95,6.0,7.0,600,1000,Daun Bawang,3-5
 110,50,55,18,28,88,98,5.5,6.5,800,1200,Daun Bawang,"3, 4"
-N,P,K,min_temp,max_temp,min_humidity,max_humidity,min_ph,max_ph,min_rainfall,max_rainfall,plant,Source
-75,250,250,15,28,65,70,6.2,6.8,600,1200,Garlic,Inferred based on Southeast Asian agricultural standards
-80,220,240,20,30,60,75,6.0,7.0,700,1300,Garlic,Inferred based on Southeast Asian agricultural standards
-90,200,260,18,29,70,80,6.5,6.8,500,1000,Garlic,Inferred based on Southeast Asian agricultural standards
-240,60,100,24,30,50,70,6.0,7.0,600,1000,Garlic,"Inferred based on Southeast Asian agricultural standards for tropical garlic varieties; macro-nutrients derived from Source 1 pages 51, 163."
-200,80,120,22,28,60,80,6.5,7.5,500,900,Garlic,"Inferred based on tropical adaptation requirements; nutrient levels grounded in Source 1 advisory pages 19, 51."
-180,50,80,25,32,45,65,5.5,6.8,700,1200,Garlic,Inferred values for lowland Southeast Asian garlic cultivation; nutrient data grounded in Source 1 page 163.
-175,125,150,24,30,60,70,5.5,7.0,600,1000,Garlic,"Values for N, P, K, and pH from Oklahoma State University Extension 2. Temperature, humidity, and rainfall values inferred based on Southeast Asian tropical agricultural standards."
-150,100,125,25,32,55,65,5.8,6.8,800,1200,Garlic,"Values for N, P, K, and pH from Oklahoma State University Extension 2. Temperature, humidity, and rainfall values inferred based on Southeast Asian tropical agricultural standards."
-180,150,175,22,28,65,75,6.0,7.5,700,1100,Garlic,Inferred based on Southeast Asian agricultural standards for upland tropical conditions.
-80,40,45,24,30,60,70,6.0,7.0,600,800,Garlic,Inferred based on Southeast Asian agricultural standards.
-20,15,20,15,35,60,90,7.0,8.5,350,2000,Aloe vera,1
-45,45,45,22,38,50,70,7.2,8.0,150,450,Aloe vera,2
-50,50,50,25,40,Not in source,Not in source,7.0,8.5,50,300,Aloe vera,2
-Not in source,Not in source,Not in source,25,35,40,80,6.0,7.5,100,500,Aloe vera,"2, 3"
-20,20,20,25,40,Not in source,Not in source,Not in source,8.5,350,400,Aloe vera,4
-55,55,55,28,42,Not in source,Not in source,6.8,8.2,Not in source,Not in source,Aloe vera,2
-Not in source,Not in source,Not in source,10,45,Not in source,Not in source,7.0,9.5,Not in source,Not in source,Aloe vera,5
-100,200,200,18.3,21.1,95,100,6.0,6.5,Not in source,Not in source,Basil,6
-120,120,120,18,30,Not in source,95,6.0,7.5,Not in source,Not in source,Basil,"7, 8"
-Not in source,Not in source,Not in source,15,30,90,95,5.5,6.5,Not in source,Not in source,Basil,8-10
-50,200,300,15.6,23.9,95,100,6.0,6.5,Not in source,Not in source,Bell pepper,6
-80,10,50,21,27,90,95,5.5,7.5,Not in source,Not in source,Bell pepper,11
-100,10,50,24,30,90,95,6.8,7.0,Not in source,Not in source,Bell pepper,11
-60,10,50,21,27,Not in source,Not in source,5.5,7.5,Not in source,Not in source,Bell pepper,11
-40,10,50,21,27,Not in source,Not in source,5.5,7.5,Not in source,Not in source,Bell pepper,11
-Not in source,Not in source,Not in source,18.3,29.4,60,70,5.5,6.8,Not in source,584,Bell pepper,"7, 12, 13"
-Not in source,Not in source,Not in source,20,25,Not in source,Not in source,6.0,6.5,Not in source,Not in source,Bell pepper,10
-Not in source,Not in source,Not in source,20,38,Not in source,Not in source,5.0,6.0,2000,2400,Cat's whiskers,7
-80,150,200,29.4,32.2,90,95,6.0,6.5,Not in source,Not in source,Cherry tomato,6
-130,200,420,29.4,32.2,90,95,6.0,6.5,Not in source,Not in source,Cherry tomato,6
-Not in source,Not in source,Not in source,18,24,60,85,5.5,7.5,Not in source,228.6,Cherry tomato,7
-75,50,50,20,35,70,90,6.0,6.5,1500,2500,Ginger,1
-75,50,50,20,30,Not in source,Not in source,4.5,6.0,1500,2500,Ginger,7
-150,60,60,20,35,70,95,5.5,7.5,1800,3000,Lemongrass,1
-50,50,40,20,30,Not in source,Not in source,6.0,6.0,2000,2500,Lemongrass,"7, 14"
-20,50,40,15,38,Not in source,Not in source,5.0,8.0,700,3000,Lemongrass,15
-Not in source,Not in source,Not in source,18,35,60,90,5.5,7.5,Not in source,Not in source,Pandan,"7, 16"
-Not in source,Not in source,Not in source,18.3,29.4,50,Not in source,5.5,6.5,Not in source,Not in source,Pandan,17
-50,110,200,4.4,20.0,90,95,5.8,6.2,Not in source,Not in source,Potato,6
-150,200,300,4.4,20.0,90,95,5.8,6.2,Not in source,Not in source,Potato,6
-Not in source,Not in source,Not in source,15,18,90,95,5.4,7.0,508,762,Potato,"7, 9, 12"
-Not in source,Not in source,Not in source,15.5,18.3,Not in source,Not in source,5.0,6.0,Not in source,Not in source,Potato,"10, 13"
-60,40,40,20,30,75,95,5.5,6.8,1500,2250,Turmeric,1
-Not in source,Not in source,Not in source,20,30,Not in source,Not in source,4.5,7.5,1500,2500,Turmeric,7
-100,150,150,21.1,26.7,95,100,6.0,6.5,Not in source,Not in source,Zucchini,6
-Not in source,Not in source,Not in source,18,35,Not in source,Not in source,6.0,6.8,Not in source,Not in source,Zucchini,"7, 10"
-Not in source,Not in source,Not in source,21.1,35,Not in source,Not in source,6.0,8.0,Not in source,Not in source,Zucchini,18
-50,150,150,4.4,23.9,95,100,6.0,6.5,Not in source,Not in source,Celery,6
-Not in source,Not in source,Not in source,12.8,21.1,98,100,6.0,6.8,Not in source,762,Celery,"7, 9, 12"
-Not in source,Not in source,Not in source,15.5,23.9,Not in source,Not in source,6.0,6.8,Not in source,Not in source,Celery,"10, 13, 19"
-100,150,150,21.1,29.4,90,95,6.0,6.5,Not in source,Not in source,Eggplant,6
-145,250,240,21.1,29.4,90,95,6.0,6.5,Not in source,Not in source,Eggplant,6
-120,40,180,18,29,85,90,5.5,7.5,Not in source,Not in source,Eggplant,11
-100,40,180,18,29,85,90,6.8,7.0,Not in source,Not in source,Eggplant,11
-150,37.7,Not in source,17,28,Not in source,Not in source,5.76,5.76,1000,1500,Eggplant,20
-200,37.7,Not in source,20,27,Not in source,Not in source,5.5,6.8,1000,1500,Eggplant,20
-Not in source,Not in source,Not in source,21,30,70,80,5.5,6.8,1000,1500,Eggplant,7
-Not in source,Not in source,Not in source,21.1,29.4,90,95,5.5,7.5,Not in source,Not in source,Eggplant,"9, 13, 21"
-75,200,200,0.0,1.7,65,70,6.2,6.8,Not in source,Not in source,Garlic,6
-125,150,150,4,27,65,70,6.0,6.5,Not in source,Not in source,Garlic,"7, 9, 22"
-50,Not in source,Not in source,12.8,23.9,Not in source,85,6.0,6.0,Not in source,Not in source,Garlic,"9, 10, 13, 23"
-80,80,80,20.6,31,84.63,85.26,5.5,7.0,37,89,Pak choy,"3, 24, 25"
-100,100,100,25,34,55,90,4.5,6.0,1905,1905,Pak choy,"3, 26"
-37.5,37.5,37.5,27.85,28.03,84.63,85.26,3.91,3.91,3.76,8.0,Pak choy,"3, 25"
-75,150,150,10.0,21.1,95,100,6.0,6.5,Not in source,Not in source,Pak choy,6
-110,110,110,26,29,Not in source,Not in source,5.5,5.5,Not in source,Not in source,Pak choy,"3, 24"
-Not in source,Not in source,Not in source,18,24,Not in source,Not in source,6.0,7.5,Not in source,Not in source,Pak choy,"7, 27"
-Not in source,Not in source,Not in source,15.5,21.1,Not in source,Not in source,7.0,7.0,Not in source,Not in source,Pak choy,"10, 27"
-75,200,200,15.6,23.9,95,100,6.0,6.5,Not in source,Not in source,Shallot,6
-225,277.5,150,20,30,Not in source,Not in source,5.25,5.25,Not in source,Not in source,Shallot,28
-300,370,200,20,30,Not in source,Not in source,5.25,5.25,Not in source,Not in source,Shallot,28
-150,185,100,22,32,Not in source,Not in source,5.5,6.5,Not in source,Not in source,Shallot,28
-75,92.5,50,20,30,Not in source,Not in source,5.25,5.25,Not in source,Not in source,Shallot,28
-Not in source,Not in source,Not in source,24,36,Not in source,Not in source,5.5,7.5,Not in source,Not in source,Shallot,7
+75,250,250,15,28,65,70,6.2,6.8,600,1200,Bawang Putih,Inferred based on Southeast Asian agricultural standards
+80,220,240,20,30,60,75,6.0,7.0,700,1300,Bawang Putih,Inferred based on Southeast Asian agricultural standards
+90,200,260,18,29,70,80,6.5,6.8,500,1000,Bawang Putih,Inferred based on Southeast Asian agricultural standards
+240,60,100,24,30,50,70,6.0,7.0,600,1000,Bawang Putih,"Inferred based on Southeast Asian agricultural standards for tropical garlic varieties; macro-nutrients derived from Source 1 pages 51, 163."
+200,80,120,22,28,60,80,6.5,7.5,500,900,Bawang Putih,"Inferred based on tropical adaptation requirements; nutrient levels grounded in Source 1 advisory pages 19, 51."
+180,50,80,25,32,45,65,5.5,6.8,700,1200,Bawang Putih,Inferred values for lowland Southeast Asian garlic cultivation; nutrient data grounded in Source 1 page 163.
+175,125,150,24,30,60,70,5.5,7.0,600,1000,Bawang Putih,"Values for N, P, K, and pH from Oklahoma State University Extension 2. Temperature, humidity, and rainfall values inferred based on Southeast Asian tropical agricultural standards."
+150,100,125,25,32,55,65,5.8,6.8,800,1200,Bawang Putih,"Values for N, P, K, and pH from Oklahoma State University Extension 2. Temperature, humidity, and rainfall values inferred based on Southeast Asian tropical agricultural standards."
+180,150,175,22,28,65,75,6.0,7.5,700,1100,Bawang Putih,Inferred based on Southeast Asian agricultural standards for upland tropical conditions.
+80,40,45,24,30,60,70,6.0,7.0,600,800,Bawang Putih,Inferred based on Southeast Asian agricultural standards.
+20,15,20,15,35,60,90,7.0,8.5,350,2000,Lidah Buaya,1
+45,45,45,22,38,50,70,7.2,8.0,150,450,Lidah Buaya,2
+50,50,50,25,40,Not in source,Not in source,7.0,8.5,50,300,Lidah Buaya,2
+Not in source,Not in source,Not in source,25,35,40,80,6.0,7.5,100,500,Lidah Buaya,"2, 3"
+20,20,20,25,40,Not in source,Not in source,Not in source,8.5,350,400,Lidah Buaya,4
+55,55,55,28,42,Not in source,Not in source,6.8,8.2,Not in source,Not in source,Lidah Buaya,2
+Not in source,Not in source,Not in source,10,45,Not in source,Not in source,7.0,9.5,Not in source,Not in source,Lidah Buaya,5
+100,200,200,18.3,21.1,95,100,6.0,6.5,Not in source,Not in source,Kemangi,6
+120,120,120,18,30,Not in source,95,6.0,7.5,Not in source,Not in source,Kemangi,"7, 8"
+Not in source,Not in source,Not in source,15,30,90,95,5.5,6.5,Not in source,Not in source,Kemangi,8-10
+50,200,300,15.6,23.9,95,100,6.0,6.5,Not in source,Not in source,Paprika,6
+80,10,50,21,27,90,95,5.5,7.5,Not in source,Not in source,Paprika,11
+100,10,50,24,30,90,95,6.8,7.0,Not in source,Not in source,Paprika,11
+60,10,50,21,27,Not in source,Not in source,5.5,7.5,Not in source,Not in source,Paprika,11
+40,10,50,21,27,Not in source,Not in source,5.5,7.5,Not in source,Not in source,Paprika,11
+Not in source,Not in source,Not in source,18.3,29.4,60,70,5.5,6.8,Not in source,584,Paprika,"7, 12, 13"
+Not in source,Not in source,Not in source,20,25,Not in source,Not in source,6.0,6.5,Not in source,Not in source,Paprika,10
+Not in source,Not in source,Not in source,20,38,Not in source,Not in source,5.0,6.0,2000,2400,Kumis Kucing,7
+80,150,200,29.4,32.2,90,95,6.0,6.5,Not in source,Not in source,Tomat Ceri,6
+130,200,420,29.4,32.2,90,95,6.0,6.5,Not in source,Not in source,Tomat Ceri,6
+Not in source,Not in source,Not in source,18,24,60,85,5.5,7.5,Not in source,228.6,Tomat Ceri,7
+75,50,50,20,35,70,90,6.0,6.5,1500,2500,Jahe,1
+75,50,50,20,30,Not in source,Not in source,4.5,6.0,1500,2500,Jahe,7
+150,60,60,20,35,70,95,5.5,7.5,1800,3000,Sereh,1
+50,50,40,20,30,Not in source,Not in source,6.0,6.0,2000,2500,Sereh,"7, 14"
+20,50,40,15,38,Not in source,Not in source,5.0,8.0,700,3000,Sereh,15
+Not in source,Not in source,Not in source,18,35,60,90,5.5,7.5,Not in source,Not in source,Daun Pandan,"7, 16"
+Not in source,Not in source,Not in source,18.3,29.4,50,Not in source,5.5,6.5,Not in source,Not in source,Daun Pandan,17
+50,110,200,4.4,20.0,90,95,5.8,6.2,Not in source,Not in source,Kentang,6
+150,200,300,4.4,20.0,90,95,5.8,6.2,Not in source,Not in source,Kentang,6
+Not in source,Not in source,Not in source,15,18,90,95,5.4,7.0,508,762,Kentang,"7, 9, 12"
+Not in source,Not in source,Not in source,15.5,18.3,Not in source,Not in source,5.0,6.0,Not in source,Not in source,Kentang,"10, 13"
+60,40,40,20,30,75,95,5.5,6.8,1500,2250,Kunyit,1
+Not in source,Not in source,Not in source,20,30,Not in source,Not in source,4.5,7.5,1500,2500,Kunyit,7
+100,150,150,21.1,26.7,95,100,6.0,6.5,Not in source,Not in source,Zukini,6
+Not in source,Not in source,Not in source,18,35,Not in source,Not in source,6.0,6.8,Not in source,Not in source,Zukini,"7, 10"
+Not in source,Not in source,Not in source,21.1,35,Not in source,Not in source,6.0,8.0,Not in source,Not in source,Zukini,18
+50,150,150,4.4,23.9,95,100,6.0,6.5,Not in source,Not in source,Seledri,6
+Not in source,Not in source,Not in source,12.8,21.1,98,100,6.0,6.8,Not in source,762,Seledri,"7, 9, 12"
+Not in source,Not in source,Not in source,15.5,23.9,Not in source,Not in source,6.0,6.8,Not in source,Not in source,Seledri,"10, 13, 19"
+100,150,150,21.1,29.4,90,95,6.0,6.5,Not in source,Not in source,Terong,6
+145,250,240,21.1,29.4,90,95,6.0,6.5,Not in source,Not in source,Terong,6
+120,40,180,18,29,85,90,5.5,7.5,Not in source,Not in source,Terong,11
+100,40,180,18,29,85,90,6.8,7.0,Not in source,Not in source,Terong,11
+150,37.7,Not in source,17,28,Not in source,Not in source,5.76,5.76,1000,1500,Terong,20
+200,37.7,Not in source,20,27,Not in source,Not in source,5.5,6.8,1000,1500,Terong,20
+Not in source,Not in source,Not in source,21,30,70,80,5.5,6.8,1000,1500,Terong,7
+Not in source,Not in source,Not in source,21.1,29.4,90,95,5.5,7.5,Not in source,Not in source,Terong,"9, 13, 21"
+75,200,200,0.0,1.7,65,70,6.2,6.8,Not in source,Not in source,Bawang Putih,6
+125,150,150,4,27,65,70,6.0,6.5,Not in source,Not in source,Bawang Putih,"7, 9, 22"
+50,Not in source,Not in source,12.8,23.9,Not in source,85,6.0,6.0,Not in source,Not in source,Bawang Putih,"9, 10, 13, 23"
+80,80,80,20.6,31,84.63,85.26,5.5,7.0,37,89,Pakcoy,"3, 24, 25"
+100,100,100,25,34,55,90,4.5,6.0,1905,1905,Pakcoy,"3, 26"
+37.5,37.5,37.5,27.85,28.03,84.63,85.26,3.91,3.91,3.76,8.0,Pakcoy,"3, 25"
+75,150,150,10.0,21.1,95,100,6.0,6.5,Not in source,Not in source,Pakcoy,6
+110,110,110,26,29,Not in source,Not in source,5.5,5.5,Not in source,Not in source,Pakcoy,"3, 24"
+Not in source,Not in source,Not in source,18,24,Not in source,Not in source,6.0,7.5,Not in source,Not in source,Pakcoy,"7, 27"
+Not in source,Not in source,Not in source,15.5,21.1,Not in source,Not in source,7.0,7.0,Not in source,Not in source,Pakcoy,"10, 27"
+75,200,200,15.6,23.9,95,100,6.0,6.5,Not in source,Not in source,Bawang Merah,6
+225,277.5,150,20,30,Not in source,Not in source,5.25,5.25,Not in source,Not in source,Bawang Merah,28
+300,370,200,20,30,Not in source,Not in source,5.25,5.25,Not in source,Not in source,Bawang Merah,28
+150,185,100,22,32,Not in source,Not in source,5.5,6.5,Not in source,Not in source,Bawang Merah,28
+75,92.5,50,20,30,Not in source,Not in source,5.25,5.25,Not in source,Not in source,Bawang Merah,28
+Not in source,Not in source,Not in source,24,36,Not in source,Not in source,5.5,7.5,Not in source,Not in source,Bawang Merah,7
